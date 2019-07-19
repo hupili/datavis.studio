@@ -1,0 +1,96 @@
+<body>
+
+    <style>
+        body {
+            font-size: 30px;
+        }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script>
+        WebFont.load({
+            google: {
+                families: ['Droid Sans', 'Droid Serif']
+            },
+            // typekit: {
+            //     id: 'isw8nwg'
+            // }
+        });
+
+        // Ref: https://typekit.com/lists/source-han-sans
+    </script>
+
+
+    <!-- <script>
+        WebFontConfig = {
+            typekit: {
+                id: 'isw8nwg'
+            }
+        };
+
+        (function(d) {
+            var wf = d.createElement('script'),
+                s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            wf.async = true;
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script> -->
+
+
+
+    <script src="https://use.typekit.net/isw8nwg.js"></script>
+    <script>
+        try {
+            Typekit.load({
+                async: true
+            });
+        } catch (e) {}
+    </script>
+
+
+    <div>
+        <p>This paragraph uses defualt font</p>
+    </div>
+
+    <div>
+        <style>
+            #droid-serif {
+                font-family: 'Droid Serif';
+            }
+        </style>
+        <p id="droid-serif">This paragraph uses "Droid Serif"</p>
+    </div>
+
+    <div>
+        <style>
+            #droid-sans {
+                font-family: 'Droid Sans';
+            }
+        </style>
+        <p id="droid-sans">This paragraph uses "Droid Sans"</p>
+    </div>
+
+    <div>
+        <p> 這是默認字體 </p>
+    </div>
+
+    <div>
+        <style>
+            #source-han-serif {
+                font-family: "source-han-serif-tc";
+            }
+        </style>
+        <p id="source-han-serif"> 這是思源宋體 </p>
+    </div>
+
+    <div>
+        <p style='font-family: "source-han-serif-tc"; font-style: normal; font-weight: 100'>思源宋體有不同的字重 - 100</p>
+        <p style='font-family: "source-han-serif-tc"; font-style: normal; font-weight: 300'>思源宋體有不同的字重 - 300</p>
+        <p style='font-family: "source-han-serif-tc"; font-style: normal; font-weight: 500'>思源宋體有不同的字重 - 500</p>
+        <p style='font-family: "source-han-serif-tc"; font-style: normal; font-weight: 700'>思源宋體有不同的字重 - 700</p>
+        <p style='font-family: "source-han-serif-tc"; font-style: normal; font-weight: 900'>思源宋體有不同的字重 - 900</p>
+
+    </div>
+
+</body>
