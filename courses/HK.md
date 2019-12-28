@@ -355,3 +355,6 @@ This course provides students with an extensive exposure to the elements of opin
 
 In this course, we will explore ways to organize and derive meaning from vast amounts of data by using visual presentation tools and techniques. Students will learn concepts, methods, and applications of data visualization methods. The course will introduce interesting examples in different application areas. Students will also learn a spectrum of visualization tools from simple GUI-based packages such as Tableau, Excel, Pajek to more advanced programmable visualization packages in R language. They will be guided in creating engaging and interactive visualizations.
 
+### SDSC 2004 Data Visualization
+
+* Instructor:
