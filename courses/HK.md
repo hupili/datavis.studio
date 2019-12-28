@@ -46,13 +46,13 @@ TOC:
         - [COMM6320 - Digital Research (@CUHK)](#comm6320---digital-research-cuhk)
         - [COMM7620 - Social Media and Online Social Networks (@HKBU)](#comm7620---social-media-and-online-social-networks-hkbu)
         - [COMM7780 - Big Data Analytics for Media and Communication (@HKBU)](#comm7780---big-data-analytics-for-media-and-communication-hkbu)
-        - [IS4335 - Data Visualization](#is4335---data-visualization)
+        - [IS4335 - Data Visualization (@CityU)](#is4335---data-visualization-cityu)
         - [ITEC2016 - Data-Driven Visualization for the Web (@HKBU)](#itec2016---data-driven-visualization-for-the-web-hkbu)
         - [JMSC6116 - Social media analytics for journalists (@HKU)](#jmsc6116---social-media-analytics-for-journalists-hku)
         - [JOUR2076 - Data Journalism (@HKBU)](#jour2076---data-journalism-hkbu)
         - [JOUR2106 - Data Visualization for News (@HKBU)](#jour2106---data-visualization-for-news-hkbu)
         - [JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)](#jour7280---big-data-analytics-for-media-and-communication-hkbu)
-        - [SDSC2004 Data Visualization](#sdsc2004-data-visualization)
+        - [SDSC2004 - Data Visualization](#sdsc2004---data-visualization)
         - [SDSC3001 - Big Data: The Arts and Science of Scaling](#sdsc3001---big-data-the-arts-and-science-of-scaling)
         - [SDSC3011 - Social Data Processing and Modelling](#sdsc3011---social-data-processing-and-modelling)
         - [SDSC3010 - Digital Trace Analytics](#sdsc3010---digital-trace-analytics)
@@ -279,7 +279,7 @@ Open source [Python book](https://github.com/hupili/python-for-data-and-media-co
 
 Student projects: [F2018](http://datavis.studio/python/)
 
-### IS4335 - Data Visualization
+### IS4335 - Data Visualization (@CityU)
 
 * Instructor: Angela Lu/ Neil Cheung
 
@@ -326,7 +326,7 @@ This course aims to introduce the fundamental knowledge and hands-on skills of b
 
 Teaching materials: [@vincentwx](https://rpubs.com/vincentwx)
 
-### SDSC2004 Data Visualization
+### SDSC2004 - Data Visualization
 
 * Instructor:
 
