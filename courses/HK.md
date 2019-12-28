@@ -279,4 +279,73 @@ Recommended readings: https://datajournalism.tools
 
 The module introduces the practical skills and use of tools for information design and graphic communication from its inception and concept development to its completion. Students can learn and apply the visual languages and graphical skills for producing information based news stories as well as publishing and broadcasting in journalism aspects.
 
+### COM5506 - Social Network Analysis for Communication (@CityU)
+
+* Instructor: Dr Chris Fei SHEN 
+
+The course covers basic theories and research methods of social network analysis, with a variety of applications for communication purposes. Specific topics include human interactions over online friendship networks (e.g., Facebook, Google+, etc.), information diffusion through microblogging websites (e.g., Twitter, Weibo, etc.), cross-national flow of media content (news, entertainment, advertising, etc.), word of mouth and viral marketing, contagious models for health communication, and etc. Students will learn how to design social network analysis studies, how to collect, integrate, analyse, and visualize social network data, and how to apply networking perspectives to solve real life issues in communication context.
+
+### COM5507 - Social Media Data Acquisition and Processing (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+This course special focus will be placed on techniques for searching, collecting, analyzing, interpreting, and visualizing data. Technical details include, but not limited to, web crawling, data storage, data analysis, text mining, social network analysis, and data visualization, based on open source software packages. Students are expected to become capable to collect big data from different data sources, i.e., social media harvesting, web scraping, online archiving or indexing data retrieving, with open source software packages. Students are also expected to produce socially, culturally, or commercially meaningful data-driven narrative outputs, such as data-driven journalistic report, data visualization, data-driven business analysis, and computational social science research reports. 
+
+201819A Teaching materials: https://github.com/xzzhang2/201819A_cityu_com5507
+201819A Representative Students' Works: [Final project](https://github.com/xzzhang2/201819A_cityu_com5507/blob/master/std_proj/std3_group_final.md)
+### COM5508 - Media Data Analytics (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+The course trains students of communication and new media to analyze and visualize numeric, text, and visual data from social media using computational social science methods, tools, and algorithms. Students are expected to become proficient to select the appropriate and efficient methods to explore, analyse, validate, and visualize big data from social media for a variety of basic and applied research purposes such as theory-driven studies, data-driven reporting, news visualization, social media user recommender systems, and etc. 
+
+### COM2116 - Audience Analytics and Media Strategies (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+This course aims to teach students the various approaches in audience analysis and the purposes, philosophies, and methods of obtaining audience information for different media, with a particular focus on Internet and social media. Strategies for developing and scheduling online campaigns will also be covered. Students are expected to gain a broad understanding of the different methods in measuring media, and the different parameters in evaluating media effectiveness. Students will engage in a group project to apply their knowledge and skills to develop action plans.
+
+
+### COM3117 - Media, Communication and Public Opinion (@CityU)
+
+* Instructor: 
+
+This seminar aims to describe, evaluate, and critique the literature on the role of mass media in public opinion formation and change. By the end of the semester, the students are expected to demonstrate the ability to evaluate research concepts and perspectives, and furthermore apply them to actual research projects.
+
+### COM3410 - Consumer Behavior Analysis (@CityU)
+
+* Instructor: 
+
+This course aims to provide students with the basic knowledge and understanding of the theories in
+psychology, sociology and anthropology, which are essential to the study of consumer behaviour. Student will be provided with the knowledge about psychology which is essential to the study of consumer behavior. Prevailing techniques of understanding consumers’ buying behaviours and business applications of consumer behaviour principles will be included. 
+
+### COM5108 - Psychological Processing of New Media (@CityU)
+
+* Instructor: Marko Skoric
+
+This course aims to discover and examine cutting-edge research in the areas of media psychology and new media studies. Specific topics addressed will include human-computer interactions (HCI) and computer-mediated communication (CMC) research on various types of new media interfaces such as the Internet, WWW, virtual reality, mobile media, and computer and video games.
+
+### COM3203 - Digital and Data Journalism (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+This course aims to train students to deliver a wide range of data-driven on-line journalistic works. It emphasizes a hands-on approach to practising data acquisition, data analysis, and the production of news content with multimedia data visualization.
+
+### SDSC3001 - Big Data: The Arts and Science of Scaling
+
+* Instructor: 
+
+This course introduces students to an intermediate level of scalable data management and big data technology and effective visualization for data science. The students should have the foundations of C, Java or Python programming and database system as pre-requisites. The topics cover the scalable SQL and NoSQL data management solution, data mining algorithms, and practical statistical and machine learning concepts. The students will also learn how to visualize data and communicate results.
+
+### SDSC3011 - Social Data Processing and Modelling
+
+* Instructor: 
+
+This course provides students with an extensive exposure to the elements of data processing and modelling for social media. Topics include human error detection, missing data handling, record aggregation, data integration, categorical variable modelling, multivariate data modelling, multilevel data modelling, latent data modelling, temporal data modelling, and spatial data modelling.
+
+### SDSC3010 - Digital Trace Analytics
+
+* Instructor: 
+
+This course provides students with an extensive exposure to the elements of opinion/behavioural data analytics. Topics include self-reported data, behavioural data, social science sampling, questionnaire design, offline surveys, online surveys, digital trace measurement, multi-source data analytics, and privacy protection.
 
