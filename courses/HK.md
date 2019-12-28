@@ -33,17 +33,29 @@ TOC:
     - [Full list](#full-list)
         - [CDM3080 - Information Design Basics (@HKDI)](#cdm3080---information-design-basics-hkdi)
         - [CDM4157 - Motion Graphic Studio (@HKDI)](#cdm4157---motion-graphic-studio-hkdi)
+        - [COM2116 - Audience Analytics and Media Strategies (@CityU)](#com2116---audience-analytics-and-media-strategies-cityu)
+        - [COM3117 - Media, Communication and Public Opinion (@CityU)](#com3117---media-communication-and-public-opinion-cityu)
+        - [COM3203 - Digital and Data Journalism (@CityU)](#com3203---digital-and-data-journalism-cityu)
+        - [COM3410 - Consumer Behavior Analysis (@CityU)](#com3410---consumer-behavior-analysis-cityu)
+        - [COM5108 - Psychological Processing of New Media (@CityU)](#com5108---psychological-processing-of-new-media-cityu)
+        - [COM5506 - Social Network Analysis for Communication (@CityU)](#com5506---social-network-analysis-for-communication-cityu)
         - [COM5507 - Social Media Data Acquisition and Processing (@CityU)](#com5507---social-media-data-acquisition-and-processing-cityu)
+        - [COM5508 - Media Data Analytics (@CityU)](#com5508---media-data-analytics-cityu)
         - [COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)](#comm3681---social-media-analytics-for-communication-professionals-cuhk)
         - [COMM5631 - Digital Humanities: Methods and Tools (@CUHK)](#comm5631---digital-humanities-methods-and-tools-cuhk)
         - [COMM6320 - Digital Research (@CUHK)](#comm6320---digital-research-cuhk)
         - [COMM7620 - Social Media and Online Social Networks (@HKBU)](#comm7620---social-media-and-online-social-networks-hkbu)
         - [COMM7780 - Big Data Analytics for Media and Communication (@HKBU)](#comm7780---big-data-analytics-for-media-and-communication-hkbu)
+        - [IS4335 - Data Visualization](#is4335---data-visualization)
         - [ITEC2016 - Data-Driven Visualization for the Web (@HKBU)](#itec2016---data-driven-visualization-for-the-web-hkbu)
         - [JMSC6116 - Social media analytics for journalists (@HKU)](#jmsc6116---social-media-analytics-for-journalists-hku)
         - [JOUR2076 - Data Journalism (@HKBU)](#jour2076---data-journalism-hkbu)
         - [JOUR2106 - Data Visualization for News (@HKBU)](#jour2106---data-visualization-for-news-hkbu)
         - [JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)](#jour7280---big-data-analytics-for-media-and-communication-hkbu)
+        - [SDSC2004 Data Visualization](#sdsc2004-data-visualization)
+        - [SDSC3001 - Big Data: The Arts and Science of Scaling](#sdsc3001---big-data-the-arts-and-science-of-scaling)
+        - [SDSC3011 - Social Data Processing and Modelling](#sdsc3011---social-data-processing-and-modelling)
+        - [SDSC3010 - Digital Trace Analytics](#sdsc3010---digital-trace-analytics)
         - [VAS4056 - Expanded Studies (Data Journalism) (@HKDI)](#vas4056---expanded-studies-data-journalism-hkdi)
         - [VAS4062 - Media Computer Graphic in Journalism (@HKDI)](#vas4062---media-computer-graphic-in-journalism-hkdi)
 
@@ -168,6 +180,46 @@ The aim of this module is to analyze the evolution & trends of motion graphics f
 
 Student projects: on [Behance](https://www.behance.net/gallery/55735237/Motion-Graphic-Studio-1617)
 
+
+
+### COM2116 - Audience Analytics and Media Strategies (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+This course aims to teach students the various approaches in audience analysis and the purposes, philosophies, and methods of obtaining audience information for different media, with a particular focus on Internet and social media. Strategies for developing and scheduling online campaigns will also be covered. Students are expected to gain a broad understanding of the different methods in measuring media, and the different parameters in evaluating media effectiveness. Students will engage in a group project to apply their knowledge and skills to develop action plans.
+
+
+### COM3117 - Media, Communication and Public Opinion (@CityU)
+
+* Instructor: 
+
+This seminar aims to describe, evaluate, and critique the literature on the role of mass media in public opinion formation and change. By the end of the semester, the students are expected to demonstrate the ability to evaluate research concepts and perspectives, and furthermore apply them to actual research projects.
+
+### COM3203 - Digital and Data Journalism (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+This course aims to train students to deliver a wide range of data-driven on-line journalistic works. It emphasizes a hands-on approach to practising data acquisition, data analysis, and the production of news content with multimedia data visualization.
+
+### COM3410 - Consumer Behavior Analysis (@CityU)
+
+* Instructor: 
+
+This course aims to provide students with the basic knowledge and understanding of the theories in
+psychology, sociology and anthropology, which are essential to the study of consumer behaviour. Student will be provided with the knowledge about psychology which is essential to the study of consumer behavior. Prevailing techniques of understanding consumers’ buying behaviours and business applications of consumer behaviour principles will be included. 
+
+### COM5108 - Psychological Processing of New Media (@CityU)
+
+* Instructor: Marko Skoric
+
+This course aims to discover and examine cutting-edge research in the areas of media psychology and new media studies. Specific topics addressed will include human-computer interactions (HCI) and computer-mediated communication (CMC) research on various types of new media interfaces such as the Internet, WWW, virtual reality, mobile media, and computer and video games.
+
+### COM5506 - Social Network Analysis for Communication (@CityU)
+
+* Instructor: Dr Chris Fei SHEN 
+
+The course covers basic theories and research methods of social network analysis, with a variety of applications for communication purposes. Specific topics include human interactions over online friendship networks (e.g., Facebook, Google+, etc.), information diffusion through microblogging websites (e.g., Twitter, Weibo, etc.), cross-national flow of media content (news, entertainment, advertising, etc.), word of mouth and viral marketing, contagious models for health communication, and etc. Students will learn how to design social network analysis studies, how to collect, integrate, analyse, and visualize social network data, and how to apply networking perspectives to solve real life issues in communication context.
+
 ### COM5507 - Social Media Data Acquisition and Processing (@CityU)
 
 * (Guest) Instructor: Dr. Xinzhi ZHANG (Department of Journalism, Hong Kong Baptist University)
@@ -177,6 +229,12 @@ This course introduces the fundamental knowledge and hands-on skills on big data
 Learning materials: [@xzzhang2](https://github.com/xzzhang2/201819A_cityu_com5507 )
 
 Student projects: [@xzzhang2](https://github.com/xzzhang2/201819A_cityu_com5507/blob/master/std_proj/std3_group_final.md)
+
+### COM5508 - Media Data Analytics (@CityU)
+
+* Instructor: Dr Xiaofan LIU
+
+The course trains students of communication and new media to analyze and visualize numeric, text, and visual data from social media using computational social science methods, tools, and algorithms. Students are expected to become proficient to select the appropriate and efficient methods to explore, analyse, validate, and visualize big data from social media for a variety of basic and applied research purposes such as theory-driven studies, data-driven reporting, news visualization, social media user recommender systems, and etc. 
 
 ### COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)
 
@@ -221,6 +279,12 @@ Open source [Python book](https://github.com/hupili/python-for-data-and-media-co
 
 Student projects: [F2018](http://datavis.studio/python/)
 
+### IS4335 - Data Visualization
+
+* Instructor: Angela Lu/ Neil Cheung
+
+In this course, we will explore ways to organize and derive meaning from vast amounts of data by using visual presentation tools and techniques. Students will learn concepts, methods, and applications of data visualization methods. The course will introduce interesting examples in different application areas. Students will also learn a spectrum of visualization tools from simple GUI-based packages such as Tableau, Excel, Pajek to more advanced programmable visualization packages in R language. They will be guided in creating engaging and interactive visualizations.
+
 ### ITEC2016 - Data-Driven Visualization for the Web (@HKBU)
 
 * Instructor: Martin Choy
@@ -254,8 +318,6 @@ This course trains our students with web based data visualization techniques, as
 
 Student projects: [S2017](http://datavis.studio/2017/), [S2018](http://datavis.studio/2018/)
 
-
-
 ### JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)
  
 * Instructor: Wang Xiaohui Vincent
@@ -264,72 +326,9 @@ This course aims to introduce the fundamental knowledge and hands-on skills of b
 
 Teaching materials: [@vincentwx](https://rpubs.com/vincentwx)
 
+### SDSC2004 Data Visualization
 
-### VAS4056 - Expanded Studies (Data Journalism) (@HKDI)
-
-* Instructor: Brian Lo
- 
-This module is focuses on studying the data explosion in the society as well as finding the way to make use of data with practical methods for journalistic reports and deliveries. Students are required to apply the use of data in journalistic storytelling with proper visual elements so as to deliver the message and produce evidence accurately to audience, listener and readers.
-
-Recommended readings: https://datajournalism.tools
-
-### VAS4062 - Media Computer Graphic in Journalism (@HKDI)
-
-* Instructor: Raymond Yau
-
-The module introduces the practical skills and use of tools for information design and graphic communication from its inception and concept development to its completion. Students can learn and apply the visual languages and graphical skills for producing information based news stories as well as publishing and broadcasting in journalism aspects.
-
-### COM5506 - Social Network Analysis for Communication (@CityU)
-
-* Instructor: Dr Chris Fei SHEN 
-
-The course covers basic theories and research methods of social network analysis, with a variety of applications for communication purposes. Specific topics include human interactions over online friendship networks (e.g., Facebook, Google+, etc.), information diffusion through microblogging websites (e.g., Twitter, Weibo, etc.), cross-national flow of media content (news, entertainment, advertising, etc.), word of mouth and viral marketing, contagious models for health communication, and etc. Students will learn how to design social network analysis studies, how to collect, integrate, analyse, and visualize social network data, and how to apply networking perspectives to solve real life issues in communication context.
-
-### COM5507 - Social Media Data Acquisition and Processing (@CityU)
-
-* Instructor: Dr Xiaofan LIU
-
-This course special focus will be placed on techniques for searching, collecting, analyzing, interpreting, and visualizing data. Technical details include, but not limited to, web crawling, data storage, data analysis, text mining, social network analysis, and data visualization, based on open source software packages. Students are expected to become capable to collect big data from different data sources, i.e., social media harvesting, web scraping, online archiving or indexing data retrieving, with open source software packages. Students are also expected to produce socially, culturally, or commercially meaningful data-driven narrative outputs, such as data-driven journalistic report, data visualization, data-driven business analysis, and computational social science research reports. 
-
-201819A Teaching materials: https://github.com/xzzhang2/201819A_cityu_com5507
-201819A Representative Students' Works: [Final project](https://github.com/xzzhang2/201819A_cityu_com5507/blob/master/std_proj/std3_group_final.md)
-### COM5508 - Media Data Analytics (@CityU)
-
-* Instructor: Dr Xiaofan LIU
-
-The course trains students of communication and new media to analyze and visualize numeric, text, and visual data from social media using computational social science methods, tools, and algorithms. Students are expected to become proficient to select the appropriate and efficient methods to explore, analyse, validate, and visualize big data from social media for a variety of basic and applied research purposes such as theory-driven studies, data-driven reporting, news visualization, social media user recommender systems, and etc. 
-
-### COM2116 - Audience Analytics and Media Strategies (@CityU)
-
-* Instructor: Dr Xiaofan LIU
-
-This course aims to teach students the various approaches in audience analysis and the purposes, philosophies, and methods of obtaining audience information for different media, with a particular focus on Internet and social media. Strategies for developing and scheduling online campaigns will also be covered. Students are expected to gain a broad understanding of the different methods in measuring media, and the different parameters in evaluating media effectiveness. Students will engage in a group project to apply their knowledge and skills to develop action plans.
-
-
-### COM3117 - Media, Communication and Public Opinion (@CityU)
-
-* Instructor: 
-
-This seminar aims to describe, evaluate, and critique the literature on the role of mass media in public opinion formation and change. By the end of the semester, the students are expected to demonstrate the ability to evaluate research concepts and perspectives, and furthermore apply them to actual research projects.
-
-### COM3410 - Consumer Behavior Analysis (@CityU)
-
-* Instructor: 
-
-This course aims to provide students with the basic knowledge and understanding of the theories in
-psychology, sociology and anthropology, which are essential to the study of consumer behaviour. Student will be provided with the knowledge about psychology which is essential to the study of consumer behavior. Prevailing techniques of understanding consumers’ buying behaviours and business applications of consumer behaviour principles will be included. 
-
-### COM5108 - Psychological Processing of New Media (@CityU)
-
-* Instructor: Marko Skoric
-
-This course aims to discover and examine cutting-edge research in the areas of media psychology and new media studies. Specific topics addressed will include human-computer interactions (HCI) and computer-mediated communication (CMC) research on various types of new media interfaces such as the Internet, WWW, virtual reality, mobile media, and computer and video games.
-
-### COM3203 - Digital and Data Journalism (@CityU)
-
-* Instructor: Dr Xiaofan LIU
-
-This course aims to train students to deliver a wide range of data-driven on-line journalistic works. It emphasizes a hands-on approach to practising data acquisition, data analysis, and the production of news content with multimedia data visualization.
+* Instructor:
 
 ### SDSC3001 - Big Data: The Arts and Science of Scaling
 
@@ -349,12 +348,18 @@ This course provides students with an extensive exposure to the elements of data
 
 This course provides students with an extensive exposure to the elements of opinion/behavioural data analytics. Topics include self-reported data, behavioural data, social science sampling, questionnaire design, offline surveys, online surveys, digital trace measurement, multi-source data analytics, and privacy protection.
 
-### IS4335 - Data Visualization
 
-* Instructor: Angela Lu/ Neil Cheung
+### VAS4056 - Expanded Studies (Data Journalism) (@HKDI)
 
-In this course, we will explore ways to organize and derive meaning from vast amounts of data by using visual presentation tools and techniques. Students will learn concepts, methods, and applications of data visualization methods. The course will introduce interesting examples in different application areas. Students will also learn a spectrum of visualization tools from simple GUI-based packages such as Tableau, Excel, Pajek to more advanced programmable visualization packages in R language. They will be guided in creating engaging and interactive visualizations.
+* Instructor: Brian Lo
+ 
+This module is focuses on studying the data explosion in the society as well as finding the way to make use of data with practical methods for journalistic reports and deliveries. Students are required to apply the use of data in journalistic storytelling with proper visual elements so as to deliver the message and produce evidence accurately to audience, listener and readers.
 
-### SDSC 2004 Data Visualization
+Recommended readings: https://datajournalism.tools
 
-* Instructor:
+### VAS4062 - Media Computer Graphic in Journalism (@HKDI)
+
+* Instructor: Raymond Yau
+
+The module introduces the practical skills and use of tools for information design and graphic communication from its inception and concept development to its completion. Students can learn and apply the visual languages and graphical skills for producing information based news stories as well as publishing and broadcasting in journalism aspects.
+
