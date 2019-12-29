@@ -30,6 +30,13 @@ TOC:
         - [Web Design/ Web Development](#web-design-web-development)
             - [Frontend](#frontend)
             - [Backend (data service)](#backend-data-service)
+        - [Application domain](#application-domain)
+            - [Politics](#politics)
+            - [Social welfare](#social-welfare)
+            - [Environmental issues](#environmental-issues)
+            - [Sports](#sports)
+            - [Arts](#arts)
+            - [Business, Finance and Economics](#business-finance-and-economics)
     - [Full list](#full-list)
         - [CDM3080 - Information Design Basics (@HKDI)](#cdm3080---information-design-basics-hkdi)
         - [CDM4157 - Motion Graphic Studio (@HKDI)](#cdm4157---motion-graphic-studio-hkdi)
@@ -47,6 +54,7 @@ TOC:
         - [COMM7620 - Social Media and Online Social Networks (@HKBU)](#comm7620---social-media-and-online-social-networks-hkbu)
         - [COMM7770 - Data Visualization (@HKBU)](#comm7770---data-visualization-hkbu)
         - [COMM7780 - Big Data Analytics for Media and Communication (@HKBU)](#comm7780---big-data-analytics-for-media-and-communication-hkbu)
+        - [ECON7910 - Data Visualization with Story-telling](#econ7910---data-visualization-with-story-telling)
         - [IS4335 - Data Visualization (@CityU)](#is4335---data-visualization-cityu)
         - [ITEC2016 - Data-Driven Visualization for the Web (@HKBU)](#itec2016---data-driven-visualization-for-the-web-hkbu)
         - [JMSC6116 - Social media analytics for journalists (@HKU)](#jmsc6116---social-media-analytics-for-journalists-hku)
@@ -129,6 +137,7 @@ Including conceptualization, modeling, coding, questionaire, sampling, ...
 #### Tableau
 
 - [JOUR2076 - Data Journalism (@HKBU)](#jour2076---data-journalism-hkbu)
+- [ECON7910 - Data Visualization with Story-telling](#econ7910---data-visualization-with-story-telling)
 
 #### KNIME
 
@@ -165,6 +174,22 @@ Including conceptualization, modeling, coding, questionaire, sampling, ...
 #### Backend (data service)
 
 - [ITEC2016 - Data-Driven Visualization for the Web (@HKBU)](#itec2016---data-driven-visualization-for-the-web-hkbu)
+
+### Application domain
+
+#### Politics
+
+#### Social welfare
+
+#### Environmental issues
+
+#### Sports
+
+#### Arts
+
+#### Business, Finance and Economics
+
+- [ECON7910 - Data Visualization with Story-telling](#econ7910---data-visualization-with-story-telling)
 
 ## Full list
 
@@ -294,6 +319,15 @@ This graduate level course is an A-Z pathway for communication background studen
 Open source [Python book](https://github.com/hupili/python-for-data-and-media-communication-gitbook)
 
 Student projects: [F2018](http://datavis.studio/python/)
+
+
+### ECON7910 - Data Visualization with Story-telling
+
+* Instructor: Pili Hu
+
+This course teaches data visualisation based on the widely adopted Tableau software. No prior experience with data or programming skill is needed. The course will be self contained covering fundamentals of data and data processing pipeline, with a focus on visualisation. Students will have the opportunity to apply the visual story telling skills on economics, finance, and business datasets. The intended learning outcome is to become comfortable with high dimensional large datasets in the application domain, be proficient in building appropriate charts and be confident to tell stories with interactive dashboards. Each teaching session is organised into three segments: Theory; Self-paced/ instructor-assisted lab exercise; Feedback or sharing. Enrolled students will also be invited to a privileged MediaWiki site to find abundant curated materials, discuss with peers and contribute in an open source way.
+
+* Course content: https://wiki.hupili.net/wiki/
 
 ### IS4335 - Data Visualization (@CityU)
 
