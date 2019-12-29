@@ -38,6 +38,7 @@ TOC:
         - [COMM5631 - Digital Humanities: Methods and Tools (@CUHK)](#comm5631---digital-humanities-methods-and-tools-cuhk)
         - [COMM6320 - Digital Research (@CUHK)](#comm6320---digital-research-cuhk)
         - [COMM7620 - Social Media and Online Social Networks (@HKBU)](#comm7620---social-media-and-online-social-networks-hkbu)
+        - [COMM7770 - Data Visualization (@HKBU)](#comm7770---data-visualization-hkbu)
         - [COMM7780 - Big Data Analytics for Media and Communication (@HKBU)](#comm7780---big-data-analytics-for-media-and-communication-hkbu)
         - [ITEC2016 - Data-Driven Visualization for the Web (@HKBU)](#itec2016---data-driven-visualization-for-the-web-hkbu)
         - [JMSC6116 - Social media analytics for journalists (@HKU)](#jmsc6116---social-media-analytics-for-journalists-hku)
@@ -89,6 +90,7 @@ Including conceptualization, modeling, coding, questionaire, sampling, ...
 
 #### Data Visualization
 
+- [COMM7770 - Data Visualization (@HKBU)](#comm7770---data-visualization-hkbu)
 - [COMM7780 - Big Data Analytics for Media and Communication (@HKBU)](#comm7780---big-data-analytics-for-media-and-communication-hkbu)
 - [JOUR2106 - Data Visualization for News (@HKBU)](#jour2106---data-visualization-for-news-hkbu)
 - [ITEC2016 - Data-Driven Visualization for the Web (@HKBU)](#itec2016---data-driven-visualization-for-the-web-hkbu)
@@ -137,7 +139,7 @@ Including conceptualization, modeling, coding, questionaire, sampling, ...
 
 ### Geographical data
 
-### Web Design/ Web Development
+### Web Design/ Web Development
 
 #### Frontend
 
@@ -210,6 +212,16 @@ This course aims to familiarize students with both the practical and theoretical
 
 Student projects and teaching materials: [UXLab](https://hkbuuxlab.com/course/)
 
+### COMM7770 - Data Visualization (@HKBU)
+
+* Instructor: Dr. WANG Ning
+
+This course will introduce students to the field of data visualization. Students will (1) learn basic visualization design and evaluation principles, (2) be tutored on how to find and download datasets of interests, and (3) develop programming skills to create a good variety of common charts for effective data exploration and visualization. By the end of the semester, students are expected to become educated critiques of data visualization and comfortable programmers who are able to acquire, explore and visualize large datasets. They will also become familiar with the self-learning resources on R to continue to sharpen their skills beyond this course.
+
+Guest lectures by Charlie Chen:
+
+* [Learn to be Data Driven](https://github.com/Carolusian/hkbu-r/blob/34385a4c5d6533c18ac928aea46373996971f2aa/2018/Learn%20to%20be%20Data%20Driven.pdf)
+* [R Case Studies from a Software Engineer](https://carolusian.github.io/hkbu-r/)
 
 ### COMM7780 - Big Data Analytics for Media and Communication (@HKBU)
 
