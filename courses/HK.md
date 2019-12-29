@@ -25,8 +25,9 @@ TOC:
         - [Data type](#data-type)
             - [Social Networks and Social Media](#social-networks-and-social-media)
             - [Text mining](#text-mining)
-        - [Geographical data](#geographical-data)
-        - [Web Design/ Web Development](#web-design-web-development)
+            - [Time series](#time-series)
+            - [Geographical data](#geographical-data)
+        - [Web Design/ Web Development](#web-design-web-development)
             - [Frontend](#frontend)
             - [Backend (data service)](#backend-data-service)
     - [Full list](#full-list)
@@ -123,6 +124,7 @@ Including conceptualization, modeling, coding, questionaire, sampling, ...
 - [JMSC6116 - Social media analytics for journalists (@HKU)](#jmsc6116---social-media-analytics-for-journalists-hku)
 - [JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)](#jour7280---big-data-analytics-for-media-and-communication-hkbu)
 - [COMM6320 - Digital Research (@CUHK)](#comm6320---digital-research-cuhk)
+- [COMM7770 - Data Visualization (@HKBU)](#comm7770---data-visualization-hkbu)
 
 #### Tableau
 
@@ -148,7 +150,10 @@ Including conceptualization, modeling, coding, questionaire, sampling, ...
 - [COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)](#comm3681---social-media-analytics-for-communication-professionals-cuhk)
 - [COMM5631 - Digital Humanities: Methods and Tools (@CUHK)](#comm5631---digital-humanities-methods-and-tools-cuhk)
 
-### Geographical data
+#### Time series
+
+
+#### Geographical data
 
 ### Web Design/ Web Development
 
