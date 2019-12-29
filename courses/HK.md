@@ -3,7 +3,6 @@
 This is a growing list of data courses in media education @HK. It is currently sorted in alphabetic order of course code. News courses, revision of course details and suggeting formating/ styling are all welcome via [Pull Request](https://github.com/hupili/datavis.studio/pulls) or email: [e@hupili.net](mailto:e@hupili.net).
 
 TOC:
-
 <!-- TOC -->
 
 - [Data in media education @HK](#data-in-media-education-hk)
@@ -52,10 +51,10 @@ TOC:
         - [JOUR2076 - Data Journalism (@HKBU)](#jour2076---data-journalism-hkbu)
         - [JOUR2106 - Data Visualization for News (@HKBU)](#jour2106---data-visualization-for-news-hkbu)
         - [JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)](#jour7280---big-data-analytics-for-media-and-communication-hkbu)
-        - [SDSC2004 - Data Visualization](#sdsc2004---data-visualization)
-        - [SDSC3001 - Big Data: The Arts and Science of Scaling](#sdsc3001---big-data-the-arts-and-science-of-scaling)
-        - [SDSC3011 - Social Data Processing and Modelling](#sdsc3011---social-data-processing-and-modelling)
-        - [SDSC3010 - Digital Trace Analytics](#sdsc3010---digital-trace-analytics)
+        - [SDSC2004 - Data Visualization (@CityU)](#sdsc2004---data-visualization-cityu)
+        - [SDSC3001 - Big Data: The Arts and Science of Scaling (@CityU)](#sdsc3001---big-data-the-arts-and-science-of-scaling-cityu)
+        - [SDSC3011 - Social Data Processing and Modelling (@CityU)](#sdsc3011---social-data-processing-and-modelling-cityu)
+        - [SDSC3010 - Digital Trace Analytics (@CityU)](#sdsc3010---digital-trace-analytics-cityu)
         - [VAS4056 - Expanded Studies (Data Journalism) (@HKDI)](#vas4056---expanded-studies-data-journalism-hkdi)
         - [VAS4062 - Media Computer Graphic in Journalism (@HKDI)](#vas4062---media-computer-graphic-in-journalism-hkdi)
 
