@@ -3,7 +3,6 @@
 This is a growing list of data courses in media education @HK. It is currently sorted in alphabetic order of course code. News courses, revision of course details and suggeting formating/ styling are all welcome via [Pull Request](https://github.com/hupili/datavis.studio/pulls) or email: [e@hupili.net](mailto:e@hupili.net).
 
 TOC:
-
 <!-- TOC -->
 
 - [Data in media education @HK](#data-in-media-education-hk)
@@ -52,10 +51,10 @@ TOC:
         - [JOUR2076 - Data Journalism (@HKBU)](#jour2076---data-journalism-hkbu)
         - [JOUR2106 - Data Visualization for News (@HKBU)](#jour2106---data-visualization-for-news-hkbu)
         - [JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)](#jour7280---big-data-analytics-for-media-and-communication-hkbu)
-        - [SDSC2004 - Data Visualization](#sdsc2004---data-visualization)
-        - [SDSC3001 - Big Data: The Arts and Science of Scaling](#sdsc3001---big-data-the-arts-and-science-of-scaling)
-        - [SDSC3011 - Social Data Processing and Modelling](#sdsc3011---social-data-processing-and-modelling)
-        - [SDSC3010 - Digital Trace Analytics](#sdsc3010---digital-trace-analytics)
+        - [SDSC2004 - Data Visualization (@CityU)](#sdsc2004---data-visualization-cityu)
+        - [SDSC3001 - Big Data: The Arts and Science of Scaling (@CityU)](#sdsc3001---big-data-the-arts-and-science-of-scaling-cityu)
+        - [SDSC3011 - Social Data Processing and Modelling (@CityU)](#sdsc3011---social-data-processing-and-modelling-cityu)
+        - [SDSC3010 - Digital Trace Analytics (@CityU)](#sdsc3010---digital-trace-analytics-cityu)
         - [VAS4056 - Expanded Studies (Data Journalism) (@HKDI)](#vas4056---expanded-studies-data-journalism-hkdi)
         - [VAS4062 - Media Computer Graphic in Journalism (@HKDI)](#vas4062---media-computer-graphic-in-journalism-hkdi)
 
@@ -326,23 +325,26 @@ This course aims to introduce the fundamental knowledge and hands-on skills of b
 
 Teaching materials: [@vincentwx](https://rpubs.com/vincentwx)
 
-### SDSC2004 - Data Visualization
+### SDSC2004 - Data Visualization (@CityU)
 
 * Instructor:
 
-### SDSC3001 - Big Data: The Arts and Science of Scaling
+Data visualization refers to the techniques used to communicate data or information by encoding it as visual objects (e.g., points, lines or bars) contained in graphics. This course introduces practical methods and tools to visualize big data to communicate complex information clearly and efficiently. Students will learn how to present, visualize, and communicate data in various forms clearly and concisely. The one mainstream data visualization tool will be covered in this class such as: Tableau, Qlikeview, Power BI, d3.js, Gephi, Weka, etc. The visualization in this course is mainly static graphics. 
+
+
+### SDSC3001 - Big Data: The Arts and Science of Scaling (@CityU)
 
 * Instructor: 
 
 This course introduces students to an intermediate level of scalable data management and big data technology and effective visualization for data science. The students should have the foundations of C, Java or Python programming and database system as pre-requisites. The topics cover the scalable SQL and NoSQL data management solution, data mining algorithms, and practical statistical and machine learning concepts. The students will also learn how to visualize data and communicate results.
 
-### SDSC3011 - Social Data Processing and Modelling
+### SDSC3011 - Social Data Processing and Modelling (@CityU)
 
 * Instructor: 
 
 This course provides students with an extensive exposure to the elements of data processing and modelling for social media. Topics include human error detection, missing data handling, record aggregation, data integration, categorical variable modelling, multivariate data modelling, multilevel data modelling, latent data modelling, temporal data modelling, and spatial data modelling.
 
-### SDSC3010 - Digital Trace Analytics
+### SDSC3010 - Digital Trace Analytics (@CityU)
 
 * Instructor: 
 
