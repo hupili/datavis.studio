@@ -46,7 +46,7 @@ TOC:
         - [COM3410 - Consumer Behavior Analysis (@CityU)](#com3410---consumer-behavior-analysis-cityu)
         - [COM5108 - Psychological Processing of New Media (@CityU)](#com5108---psychological-processing-of-new-media-cityu)
         - [COM5506 - Social Network Analysis for Communication (@CityU)](#com5506---social-network-analysis-for-communication-cityu)
-        - [COM5507 - Social Media Data Acquisition and Processing (@CityU)](#com5507---social-media-data-acquisition-and-processing-cityu)
+        - [〔方案選單〕 COM5507 - Social Media Data Acquisition and Processing (@CityU)](#com5507---social-media-data-acquisition-and-processing-cityu)
         - [COM5508 - Media Data Analytics (@CityU)](#com5508---media-data-analytics-cityu)
         - [COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)](#comm3681---social-media-analytics-for-communication-professionals-cuhk)
         - [COMM5631 - Digital Humanities: Methods and Tools (@CUHK)](#comm5631---digital-humanities-methods-and-tools-cuhk)
@@ -60,6 +60,7 @@ TOC:
         - [JMSC6116 - Social media analytics for journalists (@HKU)](#jmsc6116---social-media-analytics-for-journalists-hku)
         - [JOUR2076 - Data Journalism (@HKBU)](#jour2076---data-journalism-hkbu)
         - [JOUR2106 - Data Visualization for News (@HKBU)](#jour2106---data-visualization-for-news-hkbu)
+        - [JOUR3276 - Data Story Laboratory (@HKBU)](#jour3276---data-story-laboratory-hkbu)
         - [JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)](#jour7280---big-data-analytics-for-media-and-communication-hkbu)
         - [SDSC2004 - Data Visualization (@CityU)](#sdsc2004---data-visualization-cityu)
         - [SDSC3001 - Big Data: The Arts and Science of Scaling (@CityU)](#sdsc3001---big-data-the-arts-and-science-of-scaling-cityu)
@@ -367,6 +368,18 @@ Student projects: [1](https://dnnsociety.org/2018/12/07/tournament-needed-for-fu
 This course trains our students with web based data visualization techniques, as well as a critical thinking and creative thinking mind with data. Students end the semester with a personal webpage and an online portfolio of data news. Key techniques are HTML, CSS, Javascript.
 
 Student projects: [S2017](http://datavis.studio/2017/), [S2018](http://datavis.studio/2018/)
+
+### JOUR3276 - Data Story Laboratory (@HKBU)
+
+* Offering institution: Data & Media Communication Concentration, Department of Journalism, HKBU
+* Course instructor: Dr. Rose LUQIU & Mr. Ho wa WONG
+
+The course focuses on the practical exercise and integrated uses of different computational methods in data journalism and news reporting. Students will take part in the whole process of online news production.
+
+Course website: http://datastory.hkbu.edu.hk/
+
+Sample student project: http://datastory.hkbu.edu.hk/hkbudmc/
+
 
 ### JOUR7280 - Big Data Analytics for Media and Communication (@HKBU)
  
