@@ -46,7 +46,7 @@ TOC:
         - [COM3410 - Consumer Behavior Analysis (@CityU)](#com3410---consumer-behavior-analysis-cityu)
         - [COM5108 - Psychological Processing of New Media (@CityU)](#com5108---psychological-processing-of-new-media-cityu)
         - [COM5506 - Social Network Analysis for Communication (@CityU)](#com5506---social-network-analysis-for-communication-cityu)
-        - [〔方案選單〕 COM5507 - Social Media Data Acquisition and Processing (@CityU)](#com5507---social-media-data-acquisition-and-processing-cityu)
+        - [COM5507 - Social Media Data Acquisition and Processing (@CityU)](#com5507---social-media-data-acquisition-and-processing-cityu)
         - [COM5508 - Media Data Analytics (@CityU)](#com5508---media-data-analytics-cityu)
         - [COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)](#comm3681---social-media-analytics-for-communication-professionals-cuhk)
         - [COMM5631 - Digital Humanities: Methods and Tools (@CUHK)](#comm5631---digital-humanities-methods-and-tools-cuhk)
