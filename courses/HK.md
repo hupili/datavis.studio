@@ -48,6 +48,8 @@ TOC:
         - [COM5506 - Social Network Analysis for Communication (@CityU)](#com5506---social-network-analysis-for-communication-cityu)
         - [COM5507 - Social Media Data Acquisition and Processing (@CityU)](#com5507---social-media-data-acquisition-and-processing-cityu)
         - [COM5508 - Media Data Analytics (@CityU)](#com5508---media-data-analytics-cityu)
+        - [COM5961 - Data-driven Product and Services Design](#com5961---data-driven-product-and-services-design)
+        - [COM5940 - New Media Business Model and Innovation](#com5940---new-media-business-model-and-innovation)
         - [COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)](#comm3681---social-media-analytics-for-communication-professionals-cuhk)
         - [COMM5631 - Digital Humanities: Methods and Tools (@CUHK)](#comm5631---digital-humanities-methods-and-tools-cuhk)
         - [COMM6320 - Digital Research (@CUHK)](#comm6320---digital-research-cuhk)
@@ -267,6 +269,28 @@ Student projects: [@xzzhang2](https://github.com/xzzhang2/201819A_cityu_com5507/
 * Instructor: Dr Xiaofan LIU
 
 The course trains students of communication and new media to analyze and visualize numeric, text, and visual data from social media using computational social science methods, tools, and algorithms. Students are expected to become proficient to select the appropriate and efficient methods to explore, analyse, validate, and visualize big data from social media for a variety of basic and applied research purposes such as theory-driven studies, data-driven reporting, news visualization, social media user recommender systems, and etc. 
+
+### COM5961 - Data-driven Product and Services Design
+
+* Instructor: Prof. Bernard Suen
+
+With the continuous development of the Internet to meet the growth of smart cities and the upcoming 4th industrial revolution, Internet of Things, Cloud Computing, Artificial Intelligence, Blockchain, and Big Data are increasingly being integrated into the fabric of our works and lives alongside mobile and social media. These technologies pose challenges to industries and organisations to adapt and to transform. The purpose of this class is to provide a framework for students to understand the context of this development, so they can equip themselves with required skills to prepare for a career in the field.
+
+As smart, connected, and data driven products and services become more prevalent in this coming decade, knowing the sources of data and how to acquire them programmatically for further cleaning, filtering, aggregation, modelling, evaluation, visualisation, and on-demand interaction will become increasingly important. The class will focus on the UX/UI aspect of data driven product and service design with the goal of producing a Product Requirement Document (PRD), informed by qualitative and quantitative user research and front-end coded prototypes.
+
+Course link: https://courses.cuhkcfe.io/courses/introduction-to-web-development/com5961-data-driven-product-and-services-design/
+
+### COM5940 - New Media Business Model and Innovation
+
+* Instructor: Prof. Bernard Suen
+
+In our present age of rapid technological disruption and business transformation, a sustainable innovation requires engaging user experience, robust technological infrastructure, and viable business model, the three critical factors for success. The purpose of this course is to prepare enrolled students in becoming data driven product/operation professional, digital marketing specialist, UX researcher/designer, and startup founder by helping them master the integration challenges of putting the three together.
+
+Throughout the course, special emphasis will be given to new media project management in the context of lean startup, business model design and agile software development. As a sequel to com5961, the course will focus on the deployment of technology stack and back-end web services for supporting a cloud-based data driven product and business. This process will be guided by the SCRUM framework for iterative product releases and reviews.
+
+Given the paradigm shift in computing, Machine Learning has become a core component in any data driven web service architecture. Building REST API backed by machine learning and deep learning models will also be a consideration to potential new media product or service. The CRISP-DM methodology introduced in com5961 will be used as a framework to guide data acquisition, exploration and modelling for supporting business innovation and new media product development.
+
+Course link: https://courses.cuhkcfe.io/courses/introduction-to-web-development/new-media-business-model-and-innovation/
 
 ### COMM3681 - Social Media Analytics for Communication Professionals (@CUHK)
 
